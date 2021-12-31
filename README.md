@@ -8,8 +8,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arielblas" target="blank">
-    <img align="center" src="https://github.com/ArielBlas/arielblas/blob/main/links/linkedin.png" height="45px" width="45px"  >
+    <img align="center" src="https://github.com/ArielBlas/arielblas/blob/main/links/linkedin.png" height="45px" width="45px"  />
   </a>
+  <img width="10px" />
   <a href="https://www.arielblas.com" target="blank">
     <img align="center" src="https://github.com/ArielBlas/arielblas/blob/main/links/web.png" height="45px" width="45px" />
   </a>
